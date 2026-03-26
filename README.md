@@ -29,11 +29,3 @@ python -m uvicorn app:app --reload
 
 ### 3. Start UI
 python -m streamlit run streamlit_app.py
-
-## 📸 Demo
-(Add screenshots here)
-
-## 💡 Future Improvements
-- Database integration
-- Multi-agent system
-- Deployment on cloud

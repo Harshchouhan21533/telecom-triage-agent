@@ -22,7 +22,7 @@ AI-powered telecom support system using local LLM (Ollama + Gemma3:1B).
 ## ▶️ How to Run
 
 ### 1. Start Ollama
-ollama serve
+ollama run gemma3:1b
 
 ### 2. Start Backend
 python -m uvicorn app:app --reload
